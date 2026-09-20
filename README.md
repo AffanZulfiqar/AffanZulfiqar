@@ -1,69 +1,84 @@
 <div align="center">
 
-# 👨‍💻 Hi there, I'm Affan Zulfiqar! 👋
+# Hi, I'm Affan Zulfiqar 👋
 
-*A passionate Machine Learning Engineer & Developer building intelligent, scalable systems.*
+### Machine Learning Engineer & Software Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-zulfiqar-029972268) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:affanzulfiqar.ai@gmail.com) 
+Building intelligent, scalable, production-grade ML systems — from feature stores to serverless deployment.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-zulfiqar-029972268)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affanzulfiqar.ai@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AffanZulfiqar)
 
 </div>
 
 ---
 
-### 🚀 About Me
-- 🔭 I'm currently working on **End-to-End MLOps and Serverless Architectures**.
-- 🧠 Deeply interested in **Machine Learning, Deep Learning, and Data Engineering**.
-- 💡 I love building projects that solve real-world problems (like my recent Serverless AQI Predictor).
-- 🎓 Constantly learning and exploring new AI frameworks and system designs.
+## About Me
+
+- 🔭 Currently building **end-to-end MLOps pipelines** and **serverless ML architectures**
+- 🧠 Focused on **Machine Learning, Deep Learning, and Data Engineering**
+- 🩻 Experienced in applying ML to real-world domains — from air quality forecasting to medical imaging
+- ⚙️ Comfortable across the full stack: data pipelines, model training, APIs, and deployment
+- 🎓 Continuously exploring new frameworks, architectures, and system design patterns
 
 ---
 
-### 💻 Tech Stack
+## Tech Stack
 
-**Languages:**
-<br/>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+**Languages**
 
-**Machine Learning & Data Science:**
-<br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-**Databases & Tools:**
-<br/>
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Machine Learning & Data Science**
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
 
-### 🔥 Featured Project
+**Infrastructure & Tools**
 
-#### 💎 [Pearls AQI Predictor](https://github.com/AffanZulfiqar/Pearls-AQI-Predictor)
-A 100% serverless, end-to-end machine learning system that forecasts a city's Air Quality Index (AQI) for the next 3 days.
-- **Architecture:** Hopsworks Feature Store, GitHub Actions (CI/CD Pipelines), Flask API, Streamlit Enterprise Dashboard.
-- **Models:** Random Forest, Ridge Regression, and TensorFlow Neural Networks.
-- **Explainable AI:** Integrated SHAP feature importance for real-time model interpretability.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## Featured Project
+
+### 💎 [Pearls AQI Predictor](https://github.com/AffanZulfiqar/Pearls-AQI-Predictor)
+
+A 100% serverless, end-to-end machine learning system that forecasts a city's Air Quality Index (AQI) three days ahead.
+
+| | |
+|---|---|
+| **Architecture** | Hopsworks Feature Store · GitHub Actions CI/CD · Flask API · Streamlit Enterprise Dashboard |
+| **Models** | Random Forest · Ridge Regression · TensorFlow Neural Networks |
+| **Explainability** | SHAP feature importance for real-time model interpretability |
+
+---
+
+## Other Projects
+
+| Project | Description |
+|---|---|
+| [**Multi-RAG: Locally Deployable Multimodal RAG System**](https://github.com/AffanZulfiqar/Multi-RAG-Locally-Deployable-Multimodal-RAG-System) | A locally deployable, multimodal Retrieval-Augmented Generation system |
+| [**Medical Image Analyzer**](https://github.com/AffanZulfiqar/Medical-Image-Analyzer) | Interactive analysis tool for grayscale medical scans (X-rays, MRIs) |
+| [**Sentinel-Options**](https://github.com/AffanZulfiqar/Sentinel-Options) | AI-powered options trading agent with deterministic risk gates — built for the Alpaca × lablab.ai Hackathon |
+| [**HeatShield**](https://github.com/AffanZulfiqar/HeatShield) | Python-based project focused on thermal/risk analysis |
+| [**ML-Project**](https://github.com/AffanZulfiqar/ML-Project) | Applied machine learning experiments and notebooks |
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AffanZulfiqar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=AffanZulfiqar&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AffanZulfiqar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
-</div>
 
-<br/>
+**Let's connect and build something great together.**
 
-<div align="center">
-  <i>Let's connect and build something awesome together!</i>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-zulfiqar-029972268)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affanzulfiqar.ai@gmail.com)
+
 </div>
