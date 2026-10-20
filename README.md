@@ -6,7 +6,7 @@
 
 Building intelligent, scalable, production-grade ML systems (from feature stores to serverless deployment).
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-peach-sigma-94.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://affanzulfiqar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-zulfiqar-029972268)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affanzulfiqar.ai@gmail.com)
 
