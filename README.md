@@ -4,11 +4,11 @@
 
 ### Machine Learning Engineer & Software Developer
 
-Building intelligent, scalable, production-grade ML systems — from feature stores to serverless deployment.
+Building intelligent, scalable, production-grade ML systems (from feature stores to serverless deployment).
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-peach-sigma-94.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-zulfiqar-029972268)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affanzulfiqar.ai@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AffanZulfiqar)
 
 </div>
 
@@ -18,7 +18,7 @@ Building intelligent, scalable, production-grade ML systems — from feature sto
 
 - 🔭 Currently building **end-to-end MLOps pipelines** and **serverless ML architectures**
 - 🧠 Focused on **Machine Learning, Deep Learning, and Data Engineering**
-- 🩻 Experienced in applying ML to real-world domains — from air quality forecasting to medical imaging
+- 🩻 Experienced in applying ML to real-world domains (from air quality forecasting to medical imaging)
 - ⚙️ Comfortable across the full stack: data pipelines, model training, APIs, and deployment
 - 🎓 Continuously exploring new frameworks, architectures, and system design patterns
 
@@ -68,7 +68,7 @@ A 100% serverless, end-to-end machine learning system that forecasts a city's Ai
 |---|---|
 | [**Multi-RAG: Locally Deployable Multimodal RAG System**](https://github.com/AffanZulfiqar/Multi-RAG-Locally-Deployable-Multimodal-RAG-System) | A locally deployable, multimodal Retrieval-Augmented Generation system |
 | [**Medical Image Analyzer**](https://github.com/AffanZulfiqar/Medical-Image-Analyzer) | Interactive analysis tool for grayscale medical scans (X-rays, MRIs) |
-| [**Sentinel-Options**](https://github.com/AffanZulfiqar/Sentinel-Options) | AI-powered options trading agent with deterministic risk gates — built for the Alpaca × lablab.ai Hackathon |
+| [**Sentinel-Options**](https://github.com/AffanZulfiqar/Sentinel-Options) | AI-powered options trading agent with deterministic risk gates (built for Alpaca × lablab.ai Hackathon) |
 | [**HeatShield**](https://github.com/AffanZulfiqar/HeatShield) | Python-based project focused on thermal/risk analysis |
 | [**ML-Project**](https://github.com/AffanZulfiqar/ML-Project) | Applied machine learning experiments and notebooks |
 
@@ -78,6 +78,7 @@ A 100% serverless, end-to-end machine learning system that forecasts a city's Ai
 
 **Let's connect and build something great together.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-peach-sigma-94.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-zulfiqar-029972268)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affanzulfiqar.ai@gmail.com)
 
